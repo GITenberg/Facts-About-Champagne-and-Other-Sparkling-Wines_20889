@@ -1,0 +1,34 @@
+_repo: Facts-About-Champagne-and-Other-Sparkling-Wines_20889
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vizetelly, Henry
+    aliases:
+    - Brooks, J. Tyrwhitt, M.D.
+    - Vizetelly, H. (Henry)
+    - Vizettelly, Henry Richard
+    birthdate: 1820
+    deathdate: 1894
+    gutenberg_agent_id: '4768'
+    url: http://www.gutenberg.org/2009/agents/4768
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Vizetelly
+description: ''
+gutenberg_bookshelf: Technology
+gutenberg_issued: '2007-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20889'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TP'
+- !lcsh 'Sparkling wines'
+- !lcsh 'Champagne (Wine)'
+- !lcsh 'Wine and wine making'
+title: Facts About Champagne and Other Sparkling Wines
+url: http://www.gutenberg.org/ebooks/20889
